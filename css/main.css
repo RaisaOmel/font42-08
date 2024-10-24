@@ -63,7 +63,7 @@ body{
 .pFirst{
     position: sticky;/*  прилепание */
     top: 0px;
-    background-color: rgba(216, 105, 105, 0.671);
+    background-color: rgba(216, 105, 105, 0.251);
 }
 
 
